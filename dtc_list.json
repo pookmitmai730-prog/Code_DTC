@@ -1,4 +1,7 @@
-[
+{
+  "version": 1,
+  "updatedAt": "2026-01-04",
+  "data": [
   {"code":"P0001","shortDescription":"Fuel Volume Regulator Control Circuit/Open","longDescription":"Fuel volume regulator control circuit or open detected.","severity":"medium"},
   {"code":"P0002","shortDescription":"Fuel Volume Regulator Control Circuit Range/Performance","longDescription":"Fuel volume regulator control circuit range/performance issue.","severity":"medium"},
   {"code":"P0003","shortDescription":"Fuel Volume Regulator Control Circuit Low","longDescription":"Fuel volume regulator control circuit low voltage detected.","severity":"medium"},
@@ -83,5 +86,6 @@
   {"code":"P0970","shortDescription":"Pressure Control Solenoid High","longDescription":"Pressure control solenoid high voltage detected.","severity":"medium"},
   {"code":"P0980","shortDescription":"Transmission Fluid Temperature Sensor Malfunction","longDescription":"Transmission fluid temperature sensor malfunction detected.","severity":"medium"},
   {"code":"P0990","shortDescription":"Transmission Control Module Requested MIL Illumination","longDescription":"Transmission control module requested MIL illumination.","severity":"medium"}
-]
+ ]
+}
 
